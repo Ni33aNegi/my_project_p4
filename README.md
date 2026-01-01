@@ -12,11 +12,8 @@ This repository focuses on exploratory data analysis (EDA) to understand custome
  
 🎯Key objectives:
 
-To analyze customer behavior in a structured, data-driven way to identify trends, anomalies, and potential areas for improvement that can support better decision-making.
+To analyze customer behavior in a structured, data-driven way to identify trends, and potential areas for improvement that can support better decision-making.
 
 🌟Conclusion:
 
-This project demonstrates how combining statistical analysis, visualization, and business intelligence tools can transform raw customer data into actionable insights.
-
-
- 
+This project demonstrates how combining statistical analysis, visualization and business intelligence tools can transform raw customer data into actionable insights.
